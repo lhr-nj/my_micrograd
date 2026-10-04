@@ -121,3 +121,5 @@ optimizer.step()
 ```
 
 Rather than treating automatic differentiation and neural-network training as black boxes, this project implements the core ideas from scratch.
+
+This project is part of my journey to understand neural networks from first principles.
